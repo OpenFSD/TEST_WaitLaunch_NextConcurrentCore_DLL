@@ -5,7 +5,7 @@
 
 int main()
 {
-    ConcurrentQue::Framework_ConcurrentQue* framework_ConcurrentQue = new class ConcurrentQue::Framework_ConcurrentQue();
+    class ConcurrentQue::Framework_ConcurrentQue* framework_ConcurrentQue = new class ConcurrentQue::Framework_ConcurrentQue();
     std::cout << "Hello World!\n";
 }
 
